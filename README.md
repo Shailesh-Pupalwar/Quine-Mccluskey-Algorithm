@@ -1,4 +1,4 @@
-# Quine-McCluskey
+# Quine-McCluskey Algorithm
 
 This is the Python 3 implementation of Quine McCluskey algorithm to minimize logical expressions.
 
