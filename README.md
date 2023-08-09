@@ -1,5 +1,7 @@
 # Quine-McCluskey Algorithm
 
+Example: AB'+ AB = A*(B'+B) = A
+
 This is the Python 3 implementation of Quine McCluskey algorithm to minimize logical expressions.
 
 This Python script takes minterms and don't care terms(if any) as input and then produces the reduced expression as output.
