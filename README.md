@@ -18,3 +18,9 @@ Live Demo of Quine McCluskey Python script: https://repl.it/@SumanAdhikari/Quine
 
 I created this script just for fun. So, there might be some errors. Feel free to report them to me.
 
+Hope you enjoy it :)
+
+Note:
+
+A Spanish version of the program is also available now which is initially translated by @fernando170 (https://github.com/int-main/Quine-McCluskey/commits?author=fernando170):
+
